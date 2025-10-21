@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # Other
-gem "jwt", "~> 2.6"
+gem "jwt", "~> 3.1"
 gem "rack-cors", ">= 1.1"
 gem "active_storage_validations"
 
